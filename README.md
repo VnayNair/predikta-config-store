@@ -1,0 +1,1 @@
+# predikta-config-store
